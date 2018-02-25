@@ -1,6 +1,4 @@
-.box {
-    width: 5em;
-    height: 5em;
-    background-color: black;
-    margin: 1em;
-    float: left;
+.resize {
+    max-width: 13%;
+    max-height: auto;
+}
