@@ -1,23 +1,30 @@
-.box {outline: 2px solid black}
+.box {outline: 2px solid ;
+    padding: 1em;
+}
 
 .resize {
     max-width: 13%;
     max-height: auto;
+    padding: 5em;
 }
 
 .box {
-    position: absolute;
+    position: fixed;
 }
 
 .About {
     float: right;
+    padding: 2em
 }
 .Experience {
     float: right;
+    padding: 2em
 }
 .Work {
     float: right;
+    padding: 2em;
 }
 .Contact {
     float:right;
+    padding: 2em;
 }
