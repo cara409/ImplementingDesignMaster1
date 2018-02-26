@@ -1,4 +1,23 @@
+.box {outline: 2px solid black}
+
 .resize {
     max-width: 13%;
     max-height: auto;
+}
+
+.box {
+    position: absolute;
+}
+
+.About {
+    float: right;
+}
+.Experience {
+    float: right;
+}
+.Work {
+    float: right;
+}
+.Contact {
+    float:right;
 }

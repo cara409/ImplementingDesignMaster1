@@ -1,0 +1,6 @@
+.box {outline: 3px solid black}
+
+.resize {
+    max-width: 13%;
+    max-height: auto;
+}
