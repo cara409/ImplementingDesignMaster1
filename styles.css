@@ -12,7 +12,6 @@
 .About {
     float: right;
     padding: 2em;
-    font-family: PlayfairDisplay700;
 }
 .Experience {
     float: right;
@@ -25,4 +24,15 @@
 .Contact {
     float:right;
     padding: 2em;
+}
+
+.AboutMe {
+    float: right;
+    outline: 2px solid ;
+    padding: 1em;
+    width:  20em; 
+    height: 5em;
+}
+.my_div {
+    background-color: lightblue;
 }
