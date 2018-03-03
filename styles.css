@@ -1,5 +1,6 @@
 .box {outline: 2px solid ;
     padding: 1em;
+    width:  8em;
 }
 
 .resize {
@@ -8,10 +9,10 @@
     padding: 5em;
 }
 
-
 .About {
     float: right;
-    padding: 2em
+    padding: 2em;
+    font-family: PlayfairDisplay700;
 }
 .Experience {
     float: right;
