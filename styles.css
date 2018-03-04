@@ -1,12 +1,20 @@
-.box {outline: 2px solid ;
+.box {
+    outline: 2px solid ;
     padding: 1em;
     width:  8em;
+    position: absolute;
 }
 
 .resize {
     max-width: 13%;
     max-height: auto;
     padding: 5em;
+    position: relative;
+}
+
+.WhatIAm {
+    color: red;
+    float: right;
 }
 
 .About {
@@ -26,14 +34,20 @@
     padding: 2em;
 }
 
+
+.my_div {
+        background-color: lightblue;
+        height: 8em;
+        position: relative;
+}
+
 .AboutMe {
     float: right;
     outline: 2px solid ;
     padding: 1em;
     width:  20em; 
     height: 5em;
-}
-.my_div {
-    background-color: lightblue;
-    height:  15em;
+    position:  relative;
+    top: 0;
+    right: 8em;
 }
